@@ -41,8 +41,7 @@ The **Sample Super Store Profit Report** project focuses on analysing **sales an
 
 ---
 
-## 🔧 Tools and Technologies  
-- **Data Analysis:** Python, Pandas  
+## 🔧 Tools and Technologies    
 - **Data Visualization:** Power BI  
 - **Data Cleaning:** Excel  
 - **Dashboard Design:** Power BI Interactive Visuals  
