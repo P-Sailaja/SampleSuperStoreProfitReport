@@ -4,7 +4,7 @@
 The **Sample Super Store Profit Report** project focuses on analysing **sales and profit data** to gain insights into **regional performance, product profitability, and customer segments**. The goal is to identify **key business trends** and provide **actionable recommendations** to enhance **profitability and sales strategy**. 
 
 ---
-<img width="1341" height="758" alt="SampleSuperStoreReport" src="https://github.com/user-attachments/assets/648bcb6d-a997-421a-b0ca-34358c2edc7a" />
+<img width="1338" height="756" alt="Sample Super Store Report" src="https://github.com/user-attachments/assets/ba6fa261-5787-4bf8-ab26-578d74331aa7" />
 
 ---
 
